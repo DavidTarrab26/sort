@@ -1,0 +1,22 @@
+body{
+    background-color: green;
+}
+.card{
+    background-color: white;
+    width: 200px;
+    height: 250px;
+    border: 1px solid black;
+    border-radius: 20px;
+}
+.numeroArriba{
+    margin-left: 10%;
+}
+.palo{
+    margin-left: 48%;
+    margin-top: 38%;
+    font-size: 40px;
+}
+.numeroAbajo{
+    margin-left: 86%;
+    margin-top: 30%;
+}
